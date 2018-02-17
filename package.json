@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/clayallsopp/prettierci-tests.git",
   "author": "Clay Allsopp <clay.allsopp@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.10.2"
+  }
 }
