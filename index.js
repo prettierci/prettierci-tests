@@ -1,3 +1,3 @@
 let fn = () => {
-    console.log("foo");
+       console.log("foo");
 };
