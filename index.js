@@ -1,3 +1,3 @@
 let a = () => {
-        console.log("foo");
+  console.log("foo");
 };
